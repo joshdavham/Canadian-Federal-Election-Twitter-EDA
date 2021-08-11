@@ -1,6 +1,7 @@
 # Canadian-Federal-Election-Twitter-EDA
 
-[PCA](https://user-images.githubusercontent.com/18585507/128965773-c2688479-7429-4bee-8756-f0daae936d24.png)
+![PCA](https://user-images.githubusercontent.com/18585507/128965867-d6362b2b-8436-4125-a2b0-64a8d16e4315.png)
+
 
 ![All_Leaders](https://user-images.githubusercontent.com/18585507/128965805-eac60403-22dd-4a5a-8fe7-470e10ea2750.png)
 
