@@ -3,7 +3,8 @@
 ![PCA](https://user-images.githubusercontent.com/18585507/128965867-d6362b2b-8436-4125-a2b0-64a8d16e4315.png)
 
 
-![All_Leaders](https://user-images.githubusercontent.com/18585507/128965805-eac60403-22dd-4a5a-8fe7-470e10ea2750.png)
+![Word Cloud](https://user-images.githubusercontent.com/18585507/130531170-383fae5b-5dd1-44bc-a317-71a917048317.png)
+
 
 A short Exploratory Data Analysis (EDA) of the English-language tweets made by the five major party leaders during the 2019 Canadian Federal Election period.
 
